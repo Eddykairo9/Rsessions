@@ -1,0 +1,2 @@
+# Rsessions
+To learn R
